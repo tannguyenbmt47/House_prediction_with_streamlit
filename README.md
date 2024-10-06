@@ -1,4 +1,4 @@
-# New York House Price Prediction with streamlit
+# New York House Price Prediction with Streamlit
 
  - This is a demo for house price prediction in NY with XGBoost, integrated with Streamlit
 
@@ -9,3 +9,5 @@
     - ```streamlit run app.py```
 
 - The train folder will show how to train with XGBoost and save model.
+
+<img title="My basic app" src="img/app.png">
